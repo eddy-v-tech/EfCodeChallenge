@@ -1,0 +1,69 @@
+{
+    "component": "page",
+    "id": "32aeead5-f064-4662-9e5a-97e3ecea6953",
+    "content": [
+        {
+            "component": "fifty-fity-layout",
+            "id": "625bcdf7-2e08-42cd-ac85-b8a6eca852f6",
+            "contentLeft": [
+                {
+                    "component": "fifty-fity-layout",
+                    "id": "745bcdf7-2e08-42cd-ac85-b8a6eca852f6",
+                    "contentLeft": [
+                      {
+                        "component": "lead-form",
+                        "id": "k72f35ad-5a2c-4f9f-854a-49cb228effda",
+                        "header": "Travel with us!"
+                      }
+                    ],
+                    "contentRight": [
+                      {
+                        "component": "gallery",
+                        "id": "o9c1da2b-d880-4e94-beeb-76cd0f21b8db",
+                        "alt": "",
+                        "src": "//a.storyblok.com/f/51678/401x401/2e24afa8b6/400-2x.png",
+                        "caption": "Wow we've got this great deal!"
+                      }
+                    ]
+                  }
+            ],
+            "contentRight": [
+                {
+                    "component": "fifty-fity-layout",
+                    "id": "p95bcdf7-2e08-42cd-ac85-b8a6eca852f6",
+                    "contentLeft": [
+                        {
+                            "component": "fifty-fity-layout",
+                            "id": "625bcdf7-2e08-42cd-ac85-b8a6eca852f6",
+                            "contentLeft": [
+                              {
+                                "component": "lead-form",
+                                "id": "5f2f35ad-5a2c-4f9f-854a-49cb228effda",
+                                "header": "Travel with us!"
+                              }
+                            ],
+                            "contentRight": [
+                              {
+                                "component": "image",
+                                "id": "h8c1da2b-d880-4e94-beeb-76cd0f21b8db",
+                                "alt": "",
+                                "src": "//a.storyblok.com/f/51678/401x401/2e24afa8b6/400-2x.png",
+                                "caption": "Wow we've got this great deal!"
+                              }
+                            ]
+                          }
+                    ],
+                    "contentRight": [
+                      {
+                        "component": "image",
+                        "id": "n7c1da2b-d880-4e94-beeb-76cd0f21b8db",
+                        "alt": "",
+                        "src": "//a.storyblok.com/f/51678/401x401/2e24afa8b6/400-2x.png",
+                        "caption": "Wow we've got this great deal!"
+                      }
+                    ]
+                  }
+            ]
+          }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "component": "page",
+    "id": "12932176",
+    "content": [
+    {
+    "component": "fifty-fifty-layout",
+    "id": "398426",
+    "contentLeft": [
+    {
+    "component": "rich-text",
+    "id": "2823626",
+    "text": "# Title of the page"
+    },
+    {
+    "component": "image",
+    "id": "928261",
+    "src": "//assets/some-image.jpg"
+    }
+    ],
+    "contentRight": [
+    {
+    "component": "rich-text",
+    "id": "1281612",
+    "text": "## Sub-title text"
+    },
+    {
+    "component": "link-button",
+    "id": "2828080",
+    "href": "/search",
+    "label": "Visit search page"
+    }
+    ]
+    }
+    ]
+    }
